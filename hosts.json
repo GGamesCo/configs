@@ -1,6 +1,6 @@
 {
   "analytics": {
     "host": "analytics.com",
-    "send_event_path": "/sendEvent"
+    "post_event_path": "/postEvent"
   }
 }
