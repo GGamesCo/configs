@@ -1,0 +1,6 @@
+{
+  "analytics": {
+    "host": "analytics.com",
+    "method": "sendEvent"
+  }
+}
