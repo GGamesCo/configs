@@ -1,4 +1,4 @@
 {
-  "analytics" : false,
+  "analytics" : true,
   "mixpanelTracker" : true
 }
