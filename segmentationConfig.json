@@ -3,5 +3,5 @@
   "mixpanelTracker" : true,
   "reloadLevelsConfigIfSameVersion": true,
   
-  "reloadLevelsConfigIfNewVersionExist": false,
+  "reloadLevelsConfigIfNewVersionExist": false
 }
