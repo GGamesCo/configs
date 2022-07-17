@@ -1,4 +1,7 @@
 {
   "analytics" : true,
-  "mixpanelTracker" : true
+  "mixpanelTracker" : true,
+  "reloadLevelsConfigIfSameVersion": true,
+  
+  "reloadLevelsConfigIfNewVersionExist": false,
 }
