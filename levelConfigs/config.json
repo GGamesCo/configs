@@ -46,12 +46,12 @@
         {
             "id": 1,
             "chars": ["A", "C", "T"],
-            "words": ["ACT", "CAT"],
+            "words": ["ACT", "CAT"]
         },
         {
             "id": 2,
             "chars": ["W", "O", "N"],
-            "words": ["OWN", "NOW", "WON"],
+            "words": ["OWN", "NOW", "WON"]
         }
     ]
 }
