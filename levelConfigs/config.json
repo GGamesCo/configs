@@ -500,7 +500,7 @@
         {"id": 3, "chars": ["A", "R", "E"],  "words": ["ARE", "ERA", "EAR"]},
         {"id": 4, "chars": ["T", "A", "P"], "words": ["TAP", "PAT", "APT"]},
         {"id": 5, "chars": ["D", "R", "I", "P"], "words": ["DRIP", "RIP", "RID", "DIP"]},
-        {"id": 6, "chars": ["W", "A", "I", "R"],  "words": ["FAIR", "AIR", "FIR", "FAR"]},
+        {"id": 6, "chars": ["F", "A", "I", "R"],  "words": ["FAIR", "AIR", "FIR", "FAR"]},
         {"id": 7, "chars": ["D", "E", "N", "T"],  "words": ["DENT", "TEND", "NET", "TEN", "END", "DEN"]},
         {"id": 8, "chars": ["P", "A", "R", "K"], "words": ["PARK", "RAP", "PAR", "ARK"]},
         {"id": 9, "chars": ["U", "N", "T", "O"], "words": ["UNTO", "NOT", "NUT", "TO", "TON", "OUT"]},
