@@ -1,0 +1,57 @@
+{
+    "version": 1,
+    "flows": [
+        {
+            "id": 1,
+            "title": "Tutorial flow",
+            "sets": [
+                {
+                    "setId": 1,
+                    "requiredWordsCount": 2
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Level 1",
+            "sets": [
+                {
+                    "setId": 2,
+                    "requiredWordsCount": 2
+                },
+                {
+                    "setId": 3,
+                    "requiredWordsCount": 2
+                },
+                {
+                    "setId": 4,
+                    "requiredWordsCount": 2
+                }
+            ]
+        }
+    ],
+    "levels": [
+        {
+            "levelId": 1,
+            "flowId": 2,
+            "coinReward": 100
+        },
+        {
+            "levelId": 2,
+            "flowId": 3,
+            "coinReward": 110
+        }
+    ],
+    "wordSets": [
+        {
+            "id": 1,
+            "chars": ["A", "C", "T"],
+            "words": ["ACT", "CAT"],
+        },
+        {
+            "id": 2,
+            "chars": ["W", "O", "N"],
+            "words": ["OWN", "NOW", "WON"],
+        }
+    ]
+}
