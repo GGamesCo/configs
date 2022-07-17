@@ -5,5 +5,5 @@
   "remoteLevelsConfig": true,
   "reloadLevelsConfigIfSameVersion": true,
   
-  "reloadLevelsConfigIfNewVersionExist": true
+  "reloadLevelsConfigIfNewVersionExist": false
 }
