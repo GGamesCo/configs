@@ -3,7 +3,7 @@
   "analytics" : true,
   "mixpanelTracker" : true,
   "remoteLevelsConfig": true,
-  "reloadLevelsConfigIfSameVersion": false,
+  "reloadLevelsConfigIfSameVersion": true,
   
   "reloadLevelsConfigIfNewVersionExist": false
 }
