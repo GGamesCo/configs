@@ -1,5 +1,5 @@
 {
-  "runWebView": true,
+  "runWebView": false,
   "analytics" : true,
   "mixpanelTracker" : true,
   "remoteLevelsConfig": true,
